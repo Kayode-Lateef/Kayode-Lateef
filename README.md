@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kayode-Lateef
 - 👀 I’m a web designer/developer and a graphics designer. 
-- 🌱 I’m currently learning WordPress and PHP
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on web development project
 - 📫 How to reach me ....Just follow me
 
